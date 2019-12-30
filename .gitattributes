@@ -1,3 +1,1 @@
-data/** binary
-*.txt text
-*.roff text
+data/* linguist-vendored
